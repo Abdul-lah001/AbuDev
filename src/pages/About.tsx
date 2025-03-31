@@ -87,7 +87,7 @@ const About = () => {
             <div className="md:col-span-2 space-y-8">
               <div className="relative rounded-xl overflow-hidden aspect-[3/4]">
                 <img 
-                  src="public/WhatsApp Image 2025-03-29 at 06.31.48_5d1d8d55.jpg"
+                  src="/WhatsApp Image 2025-03-29 at 06.31.48_5d1d8d55.jpg"
                   className="w-full h-full object-cover"
                 />
               </div>
@@ -121,7 +121,7 @@ const About = () => {
 
               <div className="pt-4">
                 <a   
-                  href="public/ABDULLAH ADEKILEKUN RESUME frontend.pdf" 
+                  href="/ABDULLAH ADEKILEKUN RESUME frontend.pdf" 
                   className="inline-flex items-center gap-2 bg-primary text-primary-foreground px-5 py-3 rounded-lg font-medium hover:opacity-90 transition-opacity"
                 >
                   Download Resume
