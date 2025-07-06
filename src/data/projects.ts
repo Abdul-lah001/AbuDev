@@ -36,6 +36,26 @@ export const projects: Project[] = [
     githubRepo: 'https://github.com/Abdul-lah001/YouTube-Clone'
   },
   {
+    id: 'Lakaka',
+    title: 'Lakaka MoviesLab',
+    role: 'Frontend Development',
+    description: 'A replica of the popular video-sharing platform landing page, YouTube, built with HTML and CSS.',
+    thumbnail:'/youtube clone thumbnail.jpg',
+    tools: ['HTML', 'CSS',],
+    challengeDescription: 'Create an intuitive Youtube Landing page that showcase its user interface, making it accessible for users of various technical backgrounds.',
+    process: [
+      'Visited the youtube.com website to understand the layout and functionality',
+      'Analyzed the structure of the page and identified key components',
+      'Created a wireframe to outline the layout and design elements',
+      'Developed the HTML structure for the page, ensuring semantic markup',
+      'Styled the page using CSS, focusing on responsiveness and accessibility',
+    ],
+    solution: 'A fully responsive landing page that mirrors the original YouTube design, including a navigation bar, video thumbnails. The layout is optimized for both desktop and mobile devices.',
+    results: 'The project was completed within a week, and the final product received positive feedback for its accuracy and responsiveness. The code is clean and well-structured, making it easy to maintain and update.',
+    liveDemo: 'https://you-tube-clone-nine-alpha.vercel.app/',
+    githubRepo: 'https://github.com/Abdul-lah001/YouTube-Clone'
+  },
+  {
     id: 'Crypto',
     title: 'CryptoX',
     role: 'Frontend Development',
@@ -70,5 +90,37 @@ export const projects: Project[] = [
     solution: 'A clean and modern design that emphasizes product discovery and personalization. The design includes a personalized recommendation engine, AR features for product visualization, and a streamlined checkout process.',
     results: 'I received compliments and positive feedback from my peers and mentors for the design. The design was completed within a day, and I learned a lot about user-centered design principles and the importance of usability testing.',
     liveDemo: 'https://www.figma.com/design/eSviqBCfXaEHLvB4bljZ5a/Furnisphere?node-id=0-1&t=BnAIw8yp8JeLbrVR-1'
+  },
+  {
+    id: 'Upstates',
+    title: 'Upstates Electrical System LLC',
+    role: 'UI Design',
+    description: 'This provide reliable, top-quality electrical services across Upstate South Carolina. Fully licensed and insured',
+    thumbnail: '/A.R.K.png',
+    tools: ['Figma','X', 'Unsplash'],
+    challengeDescription: 'Create a user-friendly Landing page that simplifies the services provided experience while providing personalized recommendations.',
+    process: [
+      'Visited various electrician  sites to analyze user flows',
+      'Created user flows focusing on simplifying complex financial tasks',
+    ],
+    solution: 'A clean and modern design that emphasizes product discovery and personalization. The design includes a personalized recommendation engine, AR features for product visualization, and a streamlined checkout process.',
+    results: 'I received compliments and positive feedback from my peers and mentors for the design. The design was completed within a day, and I learned a lot about user-centered design principles and the importance of usability testing.',
+    liveDemo: 'https://www.figma.com/design/ZxYrQ9PI8pXzUt2Z3X2Rhl/A.R.K?node-id=0-1&t=GmQq2T282wwjn50g-1'
+  },
+  {
+    id: 'Therapia',
+    title: 'Theriapia',
+    role: 'UI Design',
+    description: 'A mental health platform that connects users with licensed therapists for online therapy sessions.',
+    thumbnail: '/therapia.png',
+    tools: ['Figma','X', 'Unsplash'],
+    challengeDescription: 'Create a user-friendly mental health platform that simplifies the process of finding and booking therapy sessions while providing personalized recommendations.',
+    process: [
+      'Visited various mental health platforms to analyze user flows',
+      'Created user flows focusing on simplifying complex financial tasks',
+    ],
+    solution: 'A clean and modern design that emphasizes product discovery and personalization. The design includes a personalized recommendation engine, AR features for product visualization, and a streamlined checkout process.',
+    results: 'I received compliments and positive feedback from my peers and mentors for the design. The design was completed within a day, and I learned a lot about user-centered design principles and the importance of usability testing.',
+    liveDemo: 'https://www.figma.com/design/ZxYrQ9PI8pXzUt2Z3X2Rhl/A.R.K?node-id=0-1&t=GmQq2T282wwjn50g-1'
   }
 ];
