@@ -87,8 +87,8 @@ const About = () => {
             <div className="md:col-span-2 space-y-8">
               <div className="relative rounded-xl overflow-hidden aspect-[3/4]">
                 <img 
-                  src="/WhatsApp Image 2025-03-29 at 06.31.48_5d1d8d55.jpg." 
-                  alt="John Doe - Frontend Developer & UI/UX Designer" 
+                  src="/AbuDev.jpg" 
+                  alt="AbuDev" 
                   className="w-full h-full object-cover"
                 />
               </div>

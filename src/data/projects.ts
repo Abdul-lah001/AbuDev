@@ -39,10 +39,10 @@ export const projects: Project[] = [
     id: 'Lakaka',
     title: 'Lakaka MoviesLab',
     role: 'Frontend Development',
-    description: 'A replica of the popular video-sharing platform landing page, YouTube, built with HTML and CSS.',
-    thumbnail:'/youtube clone thumbnail.jpg',
-    tools: ['HTML', 'CSS',],
-    challengeDescription: 'Create an intuitive Youtube Landing page that showcase its user interface, making it accessible for users of various technical backgrounds.',
+    description: 'A movie discovery platform that allows users to explore and discover movies based on their preferences.',
+    thumbnail:'/lakaka.jpg',
+    tools: ['HTML', 'CSS', 'REACT',],
+    challengeDescription: 'Create an intuitive Lakaka MoviesLab Landing page that showcase its user interface, making it accessible for users of various technical backgrounds.',
     process: [
       'Visited the youtube.com website to understand the layout and functionality',
       'Analyzed the structure of the page and identified key components',
@@ -52,8 +52,8 @@ export const projects: Project[] = [
     ],
     solution: 'A fully responsive landing page that mirrors the original YouTube design, including a navigation bar, video thumbnails. The layout is optimized for both desktop and mobile devices.',
     results: 'The project was completed within a week, and the final product received positive feedback for its accuracy and responsiveness. The code is clean and well-structured, making it easy to maintain and update.',
-    liveDemo: 'https://you-tube-clone-nine-alpha.vercel.app/',
-    githubRepo: 'https://github.com/Abdul-lah001/YouTube-Clone'
+    liveDemo: 'https://lakaka-movies-labs.vercel.app/',
+    githubRepo: 'https://github.com/Abdul-lah001/Lakaka-Movies-Labs'
   },
   {
     id: 'Crypto',
@@ -121,6 +121,6 @@ export const projects: Project[] = [
     ],
     solution: 'A clean and modern design that emphasizes product discovery and personalization. The design includes a personalized recommendation engine, AR features for product visualization, and a streamlined checkout process.',
     results: 'I received compliments and positive feedback from my peers and mentors for the design. The design was completed within a day, and I learned a lot about user-centered design principles and the importance of usability testing.',
-    liveDemo: 'https://www.figma.com/design/ZxYrQ9PI8pXzUt2Z3X2Rhl/A.R.K?node-id=0-1&t=GmQq2T282wwjn50g-1'
+    liveDemo: 'https://www.figma.com/design/hS4DOikR1aPLC9fL2E9HBf/Therapia?node-id=33-49&t=UKgn4uzo3sBhCDqd-1'
   }
 ];
